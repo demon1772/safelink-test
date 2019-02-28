@@ -1,0 +1,2 @@
+# safelink-test
+safe link
